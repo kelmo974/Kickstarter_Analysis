@@ -23,7 +23,7 @@ The Theater category was under the lens for this piece of analysis. Per the line
 ### Analysis of Outcomes Based on Goals
 Perhaps predicatably so, lower goal values result in a higher incidence of success. Goals set at less than $5000 succeeded over 70% of the time. In the realm of campaigns for plays, success begins to noticebly dip above $5000 and slips below 50% success at the $20000 mark. Beyond the $20000 point, the total sample sizes of each campaign category are very limited. Therefore, simply saying that they tend to fail, while ostensibly the case, can not be said with extreme confidence. In the highest bracket, $50000 or more, the rate of success is poor. Only 12.5% of these high-goal campaigns were successful.
 
-![Theater_Outcomes_vs_Goals]https://github.com/kelmo974/kickstarter_analysis/blob/main/challenge_1/Resources/Outcomes_vs_Goals.png
+![Theater_Outcomes_vs_Goals](https://github.com/kelmo974/kickstarter_analysis/blob/main/challenge_1/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 This project was fairly straightforward, but it wasn't without its potential pitfalls. One much be comfortable with stringing together multiple ranges and criteria in a COUNTIFS function and then meticulous enough to adjust across columns for specific conditional strings wihtout muddying the water.
